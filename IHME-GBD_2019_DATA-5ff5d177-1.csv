@@ -1,0 +1,7 @@
+measure,location,sex,age,cause,rei,metric,year,val,upper,lower
+DALYs (Disability-Adjusted Life Years),Global,Both,All Ages,Meningitis,Pneumococcus,Number,2019,5181163.910322113,8885573.61793433,1986030.0485714723
+DALYs (Disability-Adjusted Life Years),Global,Both,All Ages,Meningitis,Pneumococcus,Percent,2019,0.31795424213187884,0.5379359807467436,0.1253815549410827
+DALYs (Disability-Adjusted Life Years),Global,Both,All Ages,Meningitis,Pneumococcus,Rate,2019,66.96203682856702,114.83831010667078,25.667710876727647
+Deaths,Global,Both,All Ages,Meningitis,Pneumococcus,Number,2019,82842.27364467617,140150.7793545673,31609.85183095078
+Deaths,Global,Both,All Ages,Meningitis,Pneumococcus,Percent,2019,0.3514551948391374,0.592807115200404,0.13548001273755617
+Deaths,Global,Both,All Ages,Meningitis,Pneumococcus,Rate,2019,1.0706643284736683,1.811326916331711,0.4085298398363312
